@@ -1,4 +1,4 @@
-Simple microservice that reads a key integer from a txt file and generates a PDF from the related key data in a json file.
+Simple microservice that reads a key integer from a txt file and generates a PDF from the related data in a json file.
 
 Usage:
 
